@@ -1,1 +1,1 @@
-# esp-8266-low-power
+# esp-8266-weather-station
